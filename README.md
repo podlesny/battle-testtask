@@ -21,11 +21,11 @@ Clone the Repository: Clone this repository to your local development environmen
 Install Dependencies: Navigate to the project directory and install the required dependencies using npm or yarn:
 
 npm install
-or
+
 yarn install
 
 Start Development Server: Run the development server to see your application in action:
 
 npm start
-or
+
 yarn start
